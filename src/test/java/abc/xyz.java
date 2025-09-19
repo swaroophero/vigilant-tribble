@@ -5,6 +5,7 @@ public class xyz {
 		
 		System.out.println("hi");
 		System.out.println("I'm beautiful");
+		System.out.println("good");
 	}
 
 }
